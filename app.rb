@@ -21,5 +21,7 @@ class App < Sinatra::Base
     erb :date
   }
 
+  binding.pry
+
 
 end
